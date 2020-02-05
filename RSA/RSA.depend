@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573708792 source:c:\users\akshay akole\documents\c and cpp\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1575333501 source:f:\vit\vii sem\network security\lab assignment\rsa\main.c
+	<stdio.h>
+	<stdlib.h>
+

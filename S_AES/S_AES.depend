@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572630396 source:c:\users\akshay akole\documents\c and cpp\s_aes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1572627248 source:c:\users\akshay akole\documents\network security\s_aes\main.c
+	<stdio.h>
+	<stdlib.h>
+

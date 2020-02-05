@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575377720 source:f:\vit\vii sem\network security\lab assignment\vigenerecipher\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

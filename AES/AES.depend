@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573379020 source:c:\users\akshay akole\documents\c and cpp\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1575450060 source:f:\vit\vii sem\network security\lab assignment\aes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

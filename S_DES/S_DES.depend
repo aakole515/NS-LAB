@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573628185 source:c:\users\akshay akole\documents\c and cpp\s_des\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1575445182 source:f:\vit\vii sem\network security\lab assignment\s_des\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

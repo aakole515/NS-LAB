@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573712386 source:c:\users\akshay akole\documents\c and cpp\hill_cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+
